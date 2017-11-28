@@ -1,8 +1,8 @@
 # PegSolitaire
 
-A <a href="https://en.wikipedia.org/wiki/Depth-first_search">Depth First Search</a> to solve <a href="https://en.wikipedia.org/wiki/Peg_solitaire">Peg Solitaire</a>
+<p>A <a href="https://en.wikipedia.org/wiki/Depth-first_search">Depth First Search</a> to solve <a href="https://en.wikipedia.org/wiki/Peg_solitaire">Peg Solitaire</a></p>
 
-Please Simple compile Java class Run.java
+<p>Please Simple compile and run Java class Run.java</p>
 
-$ javac Run.java
-$ java Run
+<p>$ javac Run.java</p>
+<p>$ java Run</p>
