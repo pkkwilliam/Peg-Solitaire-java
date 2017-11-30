@@ -4,5 +4,6 @@
 
 <p>To run the program, please compile and run Java class Run.java</p>
 
-<p>$ javac Run.java</p>
-<p>$ java Run</p>
+*$ javac Run.java*
+<br/>
+*$ java Run*
